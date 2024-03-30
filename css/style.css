@@ -1,0 +1,116 @@
+.bg-hudam{
+    background: #f3f3f3;
+}
+.purpul{
+    background:#8482cb;
+}
+.bg-dark2{
+    background:#4d4d4d;
+}
+.menu{
+    transition-duration: 0.6s;
+    font-size: 13.5px;
+}
+.menu:hover{
+    background: #62bfc4;
+    color:white ;
+}
+.active{
+    background: #62bfc4;
+    color: white;
+}
+.rangi_man{
+    color: #62bfc4;
+}
+.cats:hover{
+    background: #62bfc4 !important;
+    color: white;
+}
+.fa-search{
+    color: #62bfc4;
+}
+.hight{
+    height: 430px;
+}
+.shop1{
+    background-image:url(../img/photo1710258150.jpeg) ;
+}
+.shop2{
+    background-image:url(../img/photo1710258155.jpeg);
+}
+.shop3{
+    background-image: url(../img/photo1710258162.jpeg);
+}
+.r-b{padding: 12px;
+    background-color: #62bfc4;
+    margin: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}.bg-second2{
+    background:rgb(231, 227, 227);
+}
+.twenty{
+    color: #62bfc4;
+}
+.ps5{
+    background-image: url(../img/banners-4.jpg);
+    padding: 100px;
+    
+}
+.nutri{
+    background-image: url(../img/banners-5.jpg);
+    padding-top: 290px;
+    
+    padding-bottom: 10px;
+    
+
+}
+.bg-hudam2{
+    background-image:url(../img/photo1710861201.jpeg)
+     ;
+     padding: 50px;
+     padding-bottom: 100px;
+}
+.bg-hudam3{
+    background-image: url(../img/photo1710861206.jpeg);
+    padding: 50px;
+    padding-bottom: 100px;
+    
+}
+.bg-hudam4{
+background-image: url(../img/photo1710861211.jpeg);
+padding: 50px;
+padding-bottom: 100px;
+}
+.bg-man{
+    background:#f2ebeb ;
+}
+.bg-man1{
+    background: #323232;
+    color: #767676;
+}
+.bg-man2{
+    background:black;
+}
+.bg-man3{
+    color: #777777;
+}
+
+.text{
+    color: #62bfc4;
+}
+.my-btn:hover{
+    transition-duration:1s;
+    background: #8482cb;
+    
+}.blog:hover{
+    transition-duration: 2s;
+    transform: scale(1.2);
+
+}
+.blog12{
+    width: 410px;
+    height: 298px;
+    overflow: hidden;
+}
